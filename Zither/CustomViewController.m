@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view.
 }
 
+-(void)test{
+    NSLog(@"哈哈，使用了我的库");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
